@@ -1,0 +1,15 @@
+Server: Tengine
+Vary: Accept-Encoding
+Content-Type: text/html
+Eagleid: 6a78b50915151142802182647e
+Age: 0
+X-Swift-Cachetime: 60
+Timing-Allow-Origin: *
+Etag: W/"5a41f935-2917"
+Date: Fri, 05 Jan 2018 01:04:40 GMT
+Via: cache29.l2nu17-1[167,304-0,H], cache44.l2nu17-1[169,0], kunlun8.cn125[171,200-0,H], kunlun9.cn125[183,0]
+Cache-Control: max-age=60
+Content-Encoding: gzip
+X-Cache: HIT TCP_REFRESH_HIT dirn:1:71733551 mlen:-1
+Last-Modified: Tue, 26 Dec 2017 07:24:37 GMT
+X-Swift-Savetime: Fri, 05 Jan 2018 01:04:40 GMT

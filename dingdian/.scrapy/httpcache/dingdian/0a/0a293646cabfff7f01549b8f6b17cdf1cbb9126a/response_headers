@@ -1,0 +1,14 @@
+Age: 594
+X-Cache: HIT TCP_MEM_HIT dirn:11:930938969 mlen:-1
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 04 Jan 2018 15:33:55 GMT
+Vary: Accept-Encoding
+Eagleid: 6a78b50915150806295235238e
+Timing-Allow-Origin: *
+Content-Encoding: gzip
+Server: Tengine
+Via: cache45.l2nu17-1[379,200-0,M], cache33.l2nu17-1[380,0], kunlun7.cn125[0,200-0,H], kunlun9.cn125[1,0]
+X-Swift-Savetime: Thu, 04 Jan 2018 15:33:55 GMT
+Cache-Control: max-age=600
+X-Powered-By: PHP/5.5.9-1ubuntu4.22
+X-Swift-Cachetime: 600

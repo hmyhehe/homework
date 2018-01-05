@@ -1,0 +1,13 @@
+Timing-Allow-Origin: *
+X-Swift-Savetime: Fri, 05 Jan 2018 01:15:16 GMT
+Server: Tengine
+Date: Fri, 05 Jan 2018 01:15:16 GMT
+Eagleid: 6a78b50815151149161865142e
+X-Cache: MISS TCP_REFRESH_MISS dirn:4:320790630 mlen:-1
+X-Powered-By: PHP/5.5.9-1ubuntu4.22
+X-Swift-Cachetime: 600
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=600
+Via: cache48.l2nu17-1[346,200-0,M], cache47.l2nu17-1[347,0], kunlun9.cn125[350,200-0,M], kunlun8.cn125[361,0]
+Vary: Accept-Encoding

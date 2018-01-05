@@ -1,0 +1,15 @@
+X-Cache: MISS TCP_REFRESH_MISS dirn:8:215413569 mlen:-1
+Via: cache35.l2nu17-1[169,200-0,H], cache30.l2nu17-1[170,0], kunlun9.cn125[172,200-0,M], kunlun9.cn125[194,0]
+Content-Type: text/html
+Last-Modified: Thu, 04 Jan 2018 15:49:05 GMT
+Eagleid: 6a78b50915151141398097492e
+Date: Fri, 05 Jan 2018 01:02:19 GMT
+Etag: W/"5a4e4cf1-2893"
+Timing-Allow-Origin: *
+X-Swift-Cachetime: 59
+Vary: Accept-Encoding
+X-Swift-Savetime: Fri, 05 Jan 2018 01:02:20 GMT
+Content-Encoding: gzip
+Server: Tengine
+Cache-Control: max-age=60
+Age: 1

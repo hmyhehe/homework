@@ -1,0 +1,13 @@
+X-Cache: MISS TCP_REFRESH_MISS dirn:8:398956587 mlen:-1
+X-Powered-By: PHP/5.5.9-1ubuntu4.22
+Via: cache34.l2nu17-1[164,200-0,M], cache2.l2nu17-1[165,0], kunlun10.cn125[167,200-0,M], kunlun4.cn125[192,0]
+Content-Type: text/html; charset=UTF-8
+Server: Tengine
+Date: Fri, 05 Jan 2018 01:01:59 GMT
+Timing-Allow-Origin: *
+X-Swift-Cachetime: 600
+Vary: Accept-Encoding
+X-Swift-Savetime: Fri, 05 Jan 2018 01:01:59 GMT
+Content-Encoding: gzip
+Eagleid: 6a78b50415151141193435284e
+Cache-Control: max-age=600

@@ -1,0 +1,16 @@
+Etag: W/"5a4042ee-281c"
+Eagleid: 6a78b50415151126523445471e
+Date: Fri, 05 Jan 2018 00:37:32 GMT
+X-Swift-Cachetime: 60
+Content-Type: text/html
+X-Swift-Savetime: Fri, 05 Jan 2018 00:37:32 GMT
+Vary: Accept-Encoding
+Server: Tengine
+Age: 0
+X-Cache: HIT TCP_REFRESH_HIT dirn:9:850738117 mlen:-1
+Timing-Allow-Origin: *
+Content-Encoding: gzip
+Via: cache29.l2nu17-1[172,304-0,H], cache14.l2nu17-1[173,0], kunlun6.cn125[175,200-0,H], kunlun4.cn125[177,0]
+Last-Modified: Mon, 25 Dec 2017 00:14:38 GMT
+X-Swift-Error: forward peer reset
+Cache-Control: max-age=60

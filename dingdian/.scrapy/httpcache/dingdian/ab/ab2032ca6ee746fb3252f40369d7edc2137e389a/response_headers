@@ -1,0 +1,15 @@
+Age: 70638
+X-Cache: HIT TCP_HIT dirn:10:373070546 mlen:-1
+Content-Type: text/plain
+Date: Wed, 03 Jan 2018 20:06:30 GMT
+Etag: "59ecfead-17"
+Eagleid: 6a78b50515150806285653652e
+Timing-Allow-Origin: *
+X-Swift-Savetime: Wed, 03 Jan 2018 20:06:30 GMT
+Server: Tengine
+X-Swift-Error: forward connect timeout
+Via: cache47.l2nu17-1[180,304-0,H], cache29.l2nu17-1[190,0], kunlun8.cn125[0,200-0,H], kunlun5.cn125[0,0]
+Accept-Ranges: bytes
+Cache-Control: max-age=86400
+Last-Modified: Sun, 22 Oct 2017 20:25:17 GMT
+X-Swift-Cachetime: 86400

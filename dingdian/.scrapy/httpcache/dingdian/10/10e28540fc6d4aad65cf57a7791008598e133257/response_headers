@@ -1,0 +1,15 @@
+Content-Type: text/html
+Age: 0
+X-Cache: HIT TCP_REFRESH_HIT dirn:3:102119479 mlen:-1
+Etag: W/"5a407f9c-28f5"
+Via: cache34.l2nu17-1[164,304-0,H], cache48.l2nu17-1[174,0], kunlun6.cn125[176,200-0,H], kunlun7.cn125[215,0]
+Date: Fri, 05 Jan 2018 00:30:50 GMT
+X-Swift-Savetime: Fri, 05 Jan 2018 00:30:50 GMT
+Cache-Control: max-age=60
+Content-Encoding: gzip
+Last-Modified: Mon, 25 Dec 2017 04:33:32 GMT
+Timing-Allow-Origin: *
+Eagleid: 6a78b50715151122505082858e
+Vary: Accept-Encoding
+Server: Tengine
+X-Swift-Cachetime: 60
